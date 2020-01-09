@@ -1,0 +1,1 @@
+# React Native Template with TypeScript
